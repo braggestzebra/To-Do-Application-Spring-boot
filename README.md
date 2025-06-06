@@ -35,7 +35,7 @@ This is a simple To-Do List web application built with **Spring Boot**, **Thymel
 1. **Clone the repository**
    ```bash
    git clone https://github.com/Braggestzebra/To-Do-Application-Spring-boot.git
-   cd todo-app
+   cd To-Do-App
 Run the application
 
 bash
